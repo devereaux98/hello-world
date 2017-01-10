@@ -1,3 +1,2 @@
 # hello-world
-commit1
-commit2
+My name's Dev this assignment is tedious I love the artist Meat Loaf.
